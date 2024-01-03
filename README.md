@@ -1,2 +1,3 @@
 # prueba
-nombre: Marco Antonio Luna Callisaya
+Nombre: Marco Antonio Luna Callisaya
+Materia: INF-122
